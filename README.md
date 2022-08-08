@@ -1,4 +1,4 @@
-# Read Me Header
+
 
 ![Project Image](forecast-study.png)
 
